@@ -198,7 +198,7 @@ static char kInstalledConstraintsKey;
     return self;
 }
 
-- (MASConstraint *)and {
+- (MASConstraint *)mas_and {
     return self;
 }
 
